@@ -1,0 +1,8 @@
+body{
+    background-color: blue;
+}
+
+.col{
+    background-color: green;
+    border: 1px solid black;
+}
